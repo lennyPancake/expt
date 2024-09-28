@@ -8,8 +8,8 @@ import time
 import random
 from fake_useragent import UserAgent
 
-api_id = 28415662
-api_hash = 'fcf6dfc9293ee184287b5b27813af309'
+api_id = №
+api_hash = '№'
 
 # Создаем двух клиентов Telegram
 client_1 = Client(name="tg_client_1", api_id=api_id, api_hash=api_hash)
